@@ -4,7 +4,7 @@
 const unusedVariable = 'variable';
 
 // for demonstration purpose only
-export default function demo(value1) {
-  return value1;
+export default function demo(value) {
+  return value;
 }
 demo(unusedVariable);
